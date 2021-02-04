@@ -1,4 +1,4 @@
-//Coded by @ilteralkann on GitHub
+//Coded by @ilteralkann <3
 
 var app = require('express')();
 var express = require('express');
